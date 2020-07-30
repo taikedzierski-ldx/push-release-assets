@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+
+# Python virtual environments
+*.venv
