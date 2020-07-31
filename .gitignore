@@ -3,3 +3,7 @@
 
 # Python virtual environments
 *.venv
+
+# Local/private files to not be included in commits
+private_*
+local_*
